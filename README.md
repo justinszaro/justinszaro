@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justinszaro
-- 👀 I’m interested in Software Engineering and making programs that move machines. 
-- 🌱 I’m currently learning database systems and maanipulating data.
+- 👀 I’m interested in Software and Web Development. 
+- 🌱 I’m currently learning about the AWS Cloud.
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me: justinszaro@gmail.com
 
